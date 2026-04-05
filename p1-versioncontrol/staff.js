@@ -8,6 +8,7 @@ const staff = [
         foto:"foto/prisma.png",
     },
     {
+<<<<<<< HEAD
         name: "M. Aditia Putra Pratama",
         division: "PTI",
         batch: "2025",
@@ -37,6 +38,13 @@ const staff = [
         batch: "2026",
         role: "Member",
         github: "tegarprasety0",
+=======
+        name: "M.Farrel Rizqierli Fairuz",
+        division: "PTI",
+        batch: "2025",
+        role: "Member",
+        github: "qiuFrrl",
+>>>>>>> 0610781 (Update data staff)
         foto:"",
     },
 ];

@@ -34,7 +34,7 @@ const staff = [
     {
         name: "M. Aditia Putra Pratama",
         division: "PTI",
-        batch: "2025",
+        batch: "2026",
         role: "Member",
         github: "aditia-prtm",
         foto:"",
